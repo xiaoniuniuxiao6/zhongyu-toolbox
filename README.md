@@ -1,2 +1,3 @@
 # -
-基于老版本的toolbox修改的锡西分校专用的的版本，砍掉了很多无用的东西增加便携性，但是没有那么高的通用化，附链接🔗https://github.com/BennyLoshop/ZhongYuToolBox_Rev。
+中育平板管理软件集合，可以对包括省锡中在内，所有使用中育系统的学校的平板进行内容的上传和下载
+附源码链接🔗https://github.com/BennyLoshop/ZhongYuToolBox_Rev。
